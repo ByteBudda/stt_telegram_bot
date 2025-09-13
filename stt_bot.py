@@ -20,7 +20,7 @@ import speech_recognition as sr
 # --- БАЗОВАЯ НАСТРОЙКА ---
 
 # Вставь сюда токен своего бота, полученный от @BotFather
-TELEGRAM_BOT_TOKEN = "7624330090:AAGQarcVbZALqCGDKVFnPAHMDFlSdsl8P9I"
+TELEGRAM_BOT_TOKEN = "token"
 
 # Папка для временного хранения медиафайлов
 TEMP_MEDIA_DIR = "temp_media"
